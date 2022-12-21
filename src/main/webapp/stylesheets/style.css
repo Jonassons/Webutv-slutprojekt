@@ -1,0 +1,48 @@
+footer{
+	display: flex;
+	background-color: green;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 50px;
+	justify-content: center;
+	align-items: center;
+	color: black;
+	
+	
+	
+	
+}
+h1{
+	display: flex;
+	
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 50px;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	color: black;
+	background-color: yellow;
+	
+}
+
+
+form{
+	display: flex;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+body{
+	background-image: url('images/clouds.jpeg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
